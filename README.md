@@ -8,18 +8,32 @@ Pytube is a powerful Python library that provides a range of features and capabi
 Here are some of the things you can do with Pytube:
 
 - **Download YouTube Videos:** You can use Pytube to download videos from YouTube. It allows you to specify the video quality and format you want to download.
+   [DownloadYouTubeVideos.py](DownloadYouTubeVideos.py) 
+
 
 - **Extract Video Metadata:** Pytube lets you retrieve metadata about a video, including its title, view count, duration, and more.
+  [extract_metadata.py](extract_metadata.py)
+
 
 - **Extract Audio:** You can extract the audio from a YouTube video and save it as an audio file, such as MP3.
+[extract_audio.py](extract_audio.py)
+
 
 - **Video Stream Selection:** Pytube provides methods to choose specific video streams based on criteria like resolution, file format, and codec.
+[video_stream_selection.py](video_stream_selection.py)
+
 
 - **Playlist Handling:** Pytube can work with YouTube playlists, allowing you to download multiple videos in a playlist at once.
+[playlist_handling.py](playlist_handling.py)
+
 
 - **Progress Monitoring:** You can track the progress of downloads, which is useful for displaying download progress to users.
+[progress_monitoring.py](progress_monitoring.py)
+
 
 - **Video Captions:** Pytube can fetch video captions (subtitles) and save them to a file.
+[video_captions.py](video_captions.py)
+
 
 - **Proxy Support:** You can configure Pytube to work with proxies if you need to access YouTube through a proxy server.
 
@@ -70,4 +84,3 @@ Special thanks to [Piyushhacker (Piyush Mujmule)](https://github.com/HacktiveMin
 For inquiries or feedback, please contact
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piyush.mujmule)
-
